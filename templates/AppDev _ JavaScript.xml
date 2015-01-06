@@ -1,35 +1,41 @@
 <templateSet group="AppDev - JavaScript - v1.0.0">
   <template name="CL" value="console.log( '$SELECTION$' );&#10;$END$" description="Surround with console.log(..)" toReformat="true" toShortenFQNames="true">
     <context>
-      <option name="JS_STATEMENT" value="true" />
+        <option name="JAVA_SCRIPT" value="true" />
+        <option name="JS_STATEMENT" value="true" />
     </context>
   </template>
   <template name="CW" value="console.warn( '$SELECTION$' );&#10;$END$" description="Surround with console.warn(..)" toReformat="true" toShortenFQNames="true">
     <context>
-      <option name="JS_STATEMENT" value="true" />
+        <option name="JAVA_SCRIPT" value="true" />
+        <option name="JS_STATEMENT" value="true" />
     </context>
   </template>
   <template name="CE" value="console.error( '$SELECTION$' );&#10;$END$" description="Surround with console.error(..)" toReformat="true" toShortenFQNames="true">
     <context>
-      <option name="JS_STATEMENT" value="true" />
+        <option name="JAVA_SCRIPT" value="true" />
+        <option name="JS_STATEMENT" value="true" />
     </context>
   </template>
   <template name="cl" value="console.log( '$VALUE$' );&#10;$END$" description="console.log(..)" toReformat="true" toShortenFQNames="true">
     <variable name="VALUE" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
-      <option name="JS_STATEMENT" value="true" />
+        <option name="JAVA_SCRIPT" value="true" />
+        <option name="JS_STATEMENT" value="true" />
     </context>
   </template>
   <template name="cw" value="console.warn( '$VALUE$' );&#10;$END$" description="console.warn(..)" toReformat="true" toShortenFQNames="true">
     <variable name="VALUE" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
-      <option name="JS_STATEMENT" value="true" />
+        <option name="JAVA_SCRIPT" value="true" />
+        <option name="JS_STATEMENT" value="true" />
     </context>
   </template>
   <template name="ce" value="console.error( '$VALUE$' );&#10;$END$" description="console.error(..)" toReformat="true" toShortenFQNames="true">
     <variable name="VALUE" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
-      <option name="JS_STATEMENT" value="true" />
+        <option name="JAVA_SCRIPT" value="true" />
+        <option name="JS_STATEMENT" value="true" />
     </context>
   </template>
 </templateSet>
