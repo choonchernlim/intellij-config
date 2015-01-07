@@ -1,4 +1,4 @@
-<templateSet group="AppDev - JavaScript - Jasmine - v1.0.0">
+<templateSet group="AppDev - JavaScript - Jasmine - v1.0.1">
   <template name="de" value="describe( '$VALUE$', function () {&#10;    $END$&#10;});&#10;" description="Jasmine - describe" toReformat="true" toShortenFQNames="true">
     <variable name="VALUE" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
@@ -223,14 +223,14 @@
       <option name="JS_STATEMENT" value="true" />
     </context>
   </template>
-  <template name="ethc" value="expect($ACTUAL$).toHaveBeenCalled();&#10;$END$" description="Jasmine - expect to have been called" toReformat="true" toShortenFQNames="true">
+  <template name="ethbc" value="expect($ACTUAL$).toHaveBeenCalled();&#10;$END$" description="Jasmine - expect to have been called" toReformat="true" toShortenFQNames="true">
     <variable name="ACTUAL" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="JAVA_SCRIPT" value="true" />
       <option name="JS_STATEMENT" value="true" />
     </context>
   </template>
-  <template name="ethcw" value="expect($ACTUAL$).toHaveBeenCalledWith($PARAM$);&#10;$END$" description="Jasmine - expect to have been called with" toReformat="true" toShortenFQNames="true">
+  <template name="ethbcw" value="expect($ACTUAL$).toHaveBeenCalledWith($PARAM$);&#10;$END$" description="Jasmine - expect to have been called with" toReformat="true" toShortenFQNames="true">
     <variable name="ACTUAL" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="PARAM" expression="" defaultValue="" alwaysStopAt="true" />
     <context>

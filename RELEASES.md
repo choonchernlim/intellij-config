@@ -28,6 +28,10 @@ Live Templates: JavaScript - Bluebird
 Live Templates: JavaScript - Jasmine
 ------------------------------------
 
+## Release 1.0.1 - 2015-01-07
+* Changed "expect to have been called" from `ethc` to `ethbc`.
+* Changed "expect to have been called with" from `ethcw` to `ethbcw`.
+
 ## Release 1.0.0 - 2015-01-06
 * Initial release.
 

@@ -107,8 +107,8 @@ Note: For surround templates, highlight the text then hit <code>Alt + Cmd + J</c
 |<code>entbct + Tab</code>               |expect not to be close to                                                  |
 |<code>ett    + Tab</code>               |expect to throw                                                            |
 |<code>entt   + Tab</code>               |expect not to throw                                                        |
-|<code>ethc   + Tab</code>               |expect to have been called                                                 |
-|<code>ethcw  + Tab</code>               |expect to have been called with                                            |
+|<code>ethbc   + Tab</code>              |expect to have been called                                                 |
+|<code>ethbcw  + Tab</code>              |expect to have been called with                                            |
 |<code>ette   + Tab</code>               |expect to throw error                                                      |
 |<code>so     + Tab</code>               |spy on                                                                     |
 |<code>soact  + Tab</code>               |spy on and call through                                                    |
