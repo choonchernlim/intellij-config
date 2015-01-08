@@ -40,7 +40,7 @@ Note: For surround templates, highlight the text then hit <code>Alt + Cmd + J</c
 
 |Shortcut                                |Description                                                                |
 |----------------------------------------|---------------------------------------------------------------------------|
-|S                                       |Surround class with <code>extends Specification</code>                     |
+|G1                                      |Surround class with <code>extends Specification</code>                     |
 |<code>defs   + Tab</code>               |def setup                                                                  |
 |<code>defc   + Tab</code>               |def cleanup                                                                |
 |<code>defss  + Tab</code>               |def setup spec                                                             |
@@ -56,18 +56,16 @@ Note: For surround templates, highlight the text then hit <code>Alt + Cmd + J</c
 
 |Shortcut                                |Description                                                                |
 |----------------------------------------|---------------------------------------------------------------------------|
-|SOUT                                    |Surround with <code>System.out.println(..)</code>                          |
+|J1                                      |Surround with <code>System.out.println(..)</code>                          |
 
 #### JavaScript
 
 |Shortcut                                |Description                                                                |
 |----------------------------------------|---------------------------------------------------------------------------|
-|CL                                      |Surround with <code>console.log(..)</code>                                 |
-|CW                                      |Surround with <code>console.warn(..)</code>                                |
-|CE                                      |Surround with <code>console.error(..)</code>                               |
-|S                                       |Surround with <code>JSON.stringify(..)</code>                              |
-
-
+|JS1                                     |Surround with <code>console.log(..)</code>                                 |
+|JS2                                     |Surround with <code>console.warn(..)</code>                                |
+|JS3                                     |Surround with <code>console.error(..)</code>                               |
+|JS4                                     |Surround with <code>JSON.stringify(..)</code>                              |
 |<code>cl     + Tab</code>               |<code>console.log(..)</code>                                               |
 |<code>cw     + Tab</code>               |<code>console.warn(..)</code>                                              |
 |<code>ce     + Tab</code>               |<code>console.error(..)</code>                                             |
@@ -76,7 +74,7 @@ Note: For surround templates, highlight the text then hit <code>Alt + Cmd + J</c
 
 |Shortcut                                |Description                                                                |
 |----------------------------------------|---------------------------------------------------------------------------|
-|TCL                                     |Surround promise with <code>then(..).caught(..).lastly(..)</code>          |
+|JSBB1                                   |Surround promise with <code>then(..).caught(..).lastly(..)</code>          |
 
 #### JavaScript - Jasmine
 
