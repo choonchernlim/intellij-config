@@ -3,6 +3,8 @@ Releases
 
 ## Release 1.0.2 - 2015-01-08
 * REFACTOR - For all "surround" live templates, used some prefix and incremental number instead of single character so that it won't accidentally invoke the live templates.
+* Live Templates: JavaScript - Jasmine
+** REFACTOR - "Jasmine - it" - Added "given, when, then" comments
 
 ## Release 1.0.1 - 2015-01-07
 * Live Templates: JavaScript - Jasmine
