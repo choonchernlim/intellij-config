@@ -1,4 +1,4 @@
-<templateSet group="AppDev - JavaScript - Jasmine - v1.0.1">
+<templateSet group="AppDev - JavaScript - Jasmine">
   <template name="de" value="describe( '$VALUE$', function () {&#10;    $END$&#10;});&#10;" description="Jasmine - describe" toReformat="true" toShortenFQNames="true">
     <variable name="VALUE" expression="" defaultValue="" alwaysStopAt="true" />
     <context>

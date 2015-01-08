@@ -65,6 +65,9 @@ Note: For surround templates, highlight the text then hit <code>Alt + Cmd + J</c
 |CL                                      |Surround with <code>console.log(..)</code>                                 |
 |CW                                      |Surround with <code>console.warn(..)</code>                                |
 |CE                                      |Surround with <code>console.error(..)</code>                               |
+|S                                       |Surround with <code>JSON.stringify(..)</code>                              |
+
+
 |<code>cl     + Tab</code>               |<code>console.log(..)</code>                                               |
 |<code>cw     + Tab</code>               |<code>console.warn(..)</code>                                              |
 |<code>ce     + Tab</code>               |<code>console.error(..)</code>                                             |

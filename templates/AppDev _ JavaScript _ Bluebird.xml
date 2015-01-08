@@ -1,4 +1,4 @@
-<templateSet group="AppDev - JavaScript - Bluebird - v1.0.0">
+<templateSet group="AppDev - JavaScript - Bluebird">
   <template name="TCL" value="$SELECTION$&#10;    .then( function ( model ) {&#10;        console.log( 'success', model );&#10;        $END$&#10;    } )&#10;    .caught( function ( response ) {&#10;        console.error( 'error', response );&#10;    } )&#10;    .lastly( function () {&#10;&#10;    } );&#10;" description="Bluebird - Surround promise with then(..).caught(..).lastly(..)" toReformat="true" toShortenFQNames="true">
     <context>
       <option name="JAVA_SCRIPT" value="true" />

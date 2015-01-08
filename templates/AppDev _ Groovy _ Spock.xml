@@ -1,4 +1,4 @@
-<templateSet group="AppDev - Groovy - Spock - v1.0.0">
+<templateSet group="AppDev - Groovy - Spock">
   <template name="S" value="$SELECTION$ extends spock.lang.Specification&#10;" description="Spock - Surround class with extends Specification" toReformat="true" toShortenFQNames="true">
     <context>
       <option name="GROOVY" value="true" />
