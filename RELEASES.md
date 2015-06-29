@@ -1,6 +1,12 @@
 Releases
 ========
 
+## Release 1.0.3 - 2015-06-29
+* Code Styles: Made local fields and parameters to be "final".
+* File Templates - Java: Removed "Created by" line when creating a Java class.
+* File Templates - Java: Made Java class to be "final".
+* File Templates - JavaScript: Removed "Created by" line when creating a JavaScript file.
+
 ## Release 1.0.2 - 2015-01-08
 * REFACTOR - For all "surround" live templates, used some prefix and incremental number instead of single character so that it won't accidentally invoke the live templates.
 * Live Templates: JavaScript - Jasmine
