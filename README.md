@@ -16,6 +16,16 @@ Copy code style files to the following location:
 
 Upon IntelliJ IDEA restart, you may need to select the code style from the Settings / Preferences Dialog.
 
+#### File Templates
+
+Copy file template files to the following location:
+
+* Windows: <code>&lt;USER HOME&gt;\\.IntelliJIdeaXX\config\fileTemplates</code>
+* Linux: <code>~/.IntelliJIdeaXX/config/fileTemplates</code>
+* OS X: <code>~/Library/Preferences/IntelliJIdeaXX/fileTemplates</code>
+
+Restart IntelliJ IDEA.
+
 #### Live Templates
 
 Copy live template files to the following location:
