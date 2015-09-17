@@ -1,6 +1,9 @@
 Releases
 ========
 
+## Release 1.0.4 - 2015-09-17
+* Code Styles: JavaScript - Space around object literal.
+
 ## Release 1.0.3 - 2015-06-29
 * Code Styles: Made local fields and parameters to be "final".
 * File Templates - Java: Removed "Created by" line when creating a Java class.
