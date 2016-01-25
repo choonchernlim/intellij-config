@@ -76,6 +76,7 @@ Note: For surround templates, highlight the text then hit <code>Alt + Cmd + J</c
 |JS2                                     |Surround with <code>console.warn(..)</code>                                |
 |JS3                                     |Surround with <code>console.error(..)</code>                               |
 |JS4                                     |Surround with <code>JSON.stringify(..)</code>                              |
+|<code>af     + Tab</code>               |ES6 arrow function : <code>(..) => { .. }</code>                           |
 |<code>cl     + Tab</code>               |<code>console.log(..)</code>                                               |
 |<code>cw     + Tab</code>               |<code>console.warn(..)</code>                                              |
 |<code>ce     + Tab</code>               |<code>console.error(..)</code>                                             |
