@@ -1,6 +1,9 @@
 Releases
 ========
 
+## Release 1.0.6 - 2016-03-16
+* File Templates - JavaScript - Jasmine: ES6 syntax for `describe(..)` and `it(..)`.
+
 ## Release 1.0.5 - 2016-01-25
 * Code Styles: JavaScript - ES6 arrow function.
 
