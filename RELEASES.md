@@ -1,6 +1,9 @@
 Releases
 ========
 
+## Release 1.0.7 - 2016-03-23
+* Code Styles - ES6 - space between curly braces `import`.
+
 ## Release 1.0.6 - 2016-03-16
 * File Templates - JavaScript - Jasmine: ES6 syntax for `describe(..)` and `it(..)`.
 
