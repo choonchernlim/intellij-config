@@ -1,6 +1,10 @@
 Releases
 ========
 
+## Release 1.1.0 - 2016-04-04
+* Code Styles - JavaScript - Using Airbnb's JavaScript style guide.
+* Removed unused shortcuts.
+
 ## Release 1.0.7 - 2016-03-23
 * Code Styles - ES6 - space between curly braces `import`.
 

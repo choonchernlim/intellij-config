@@ -1,0 +1,29 @@
+<templateSet group="AppDev - JavaScript">
+  <template name="cl" value="console.log( $VALUE$ );&#10;$END$" description="console.log(..)" toReformat="true" toShortenFQNames="true">
+    <variable name="VALUE" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+      <option name="JS_STATEMENT" value="true" />
+    </context>
+  </template>
+  <template name="af" value="($PARAM$) =&gt; {&#10;  $END$&#10;}" description="ES6 - Arrow Function" toReformat="true" toShortenFQNames="true">
+    <variable name="PARAM" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+      <option name="JS_EXPRESSION" value="true" />
+      <option name="JSX_HTML" value="false" />
+      <option name="JS_STATEMENT" value="false" />
+    </context>
+  </template>
+  <template name="de" value="describe('$VALUE$', () =&gt; {&#10;  $END$&#10;});&#10;" description="ES6 - describe()" toReformat="true" toShortenFQNames="true">
+    <variable name="VALUE" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JS_STATEMENT" value="true" />
+    </context>
+  </template>
+  <template name="it" value="it('given X, should be Y', () =&gt; {&#10;  $END$&#10;});&#10;" description="ES6 - it()" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="JS_STATEMENT" value="true" />
+    </context>
+  </template>
+</templateSet>

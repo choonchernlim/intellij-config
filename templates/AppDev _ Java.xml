@@ -1,8 +1,0 @@
-<templateSet group="AppDev - Java">
-    <template name="J1" value="System.out.println($SELECTION$);&#10;$END$"
-              description="Surround with System.out.println(..)" toReformat="true" toShortenFQNames="true">
-    <context>
-      <option name="JAVA_STATEMENT" value="true" />
-    </context>
-  </template>
-</templateSet>

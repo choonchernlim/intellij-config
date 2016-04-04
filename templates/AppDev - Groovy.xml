@@ -1,0 +1,8 @@
+<templateSet group="AppDev - Groovy">
+    <template name="def" value="def &quot;$FUNCTION$&quot;() {&#10;    given:&#10;    $END$&#10;    &#10;    when:&#10;    &#10;    &#10;    then:&#10;    &#10;}&#10;" description="Spock - def given when then" toReformat="true" toShortenFQNames="true">
+    <variable name="FUNCTION" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="GROOVY_DECLARATION" value="true" />
+    </context>
+  </template>
+</templateSet>
