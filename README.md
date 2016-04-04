@@ -60,5 +60,5 @@ Live Templates Usage
 |----------------------------------------|---------------------------------------------------------------------------|
 |`cl     + <Tab>`                        |`console.log(..)`                                                          |
 |`af     + <Tab>`                        |ES6 - arrow function : `(..) => { .. }`                                    |
-|`de     + <Tab>`                        |ES6 - describe()                                                           |
-|`it     + <Tab>`                        |ES6 - it()                                                                 |
+|`de     + <Tab>`                        |ES6 - `describe(..)`                                                       |
+|`it     + <Tab>`                        |ES6 - `it(..)`                                                             |
